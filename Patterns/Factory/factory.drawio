@@ -1,0 +1,72 @@
+<mxfile host="65bd71144e">
+    <diagram id="fpYf3K3fa9Z6XAUNaG2G" name="Page-1">
+        <mxGraphModel dx="1139" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #d2d8d8;&quot;&gt;Racer&lt;/span&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="410" width="140" height="52" as="geometry">
+                        <mxRectangle x="190" y="410" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;racing()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #f4e286;&quot;&gt;void;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;ToyotaTeam&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="510" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;racing()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #f4e286;&quot;&gt;void;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ecd2b4;&quot;&gt;FordTeam&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="510" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;racing()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #f4e286;&quot;&gt;void;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #d2d8d8;&quot;&gt;RacerFactory&lt;/span&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="410" width="190" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;createRacer()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #d2d8d8;&quot;&gt;Racer&lt;/span&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry y="26" width="190" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;ToyotaTeam&lt;/span&gt;&lt;span style=&quot;color: rgb(244, 226, 134);&quot;&gt;Factory&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="510" width="190" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;createRacer()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #d2d8d8;&quot;&gt;Racer&lt;/span&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="13">
+                    <mxGeometry y="26" width="190" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ecd2b4;&quot;&gt;FordTeam&lt;/span&gt;&lt;span style=&quot;color: rgb(244, 226, 134);&quot;&gt;Factory&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="510" width="190" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;color: rgb(246, 250, 253); background-color: rgb(8, 22, 32); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;createRacer()&lt;/span&gt;&lt;span style=&quot;color: #c28e60;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #d2d8d8;&quot;&gt;Racer&lt;/span&gt;&lt;span style=&quot;color: #f4e286;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="15">
+                    <mxGeometry y="26" width="190" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.284;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="13" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="510" as="sourcePoint"/>
+                        <mxPoint x="650" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.704;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="15" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870" y="450" as="sourcePoint"/>
+                        <mxPoint x="920" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.211;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="520" as="sourcePoint"/>
+                        <mxPoint x="220" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.829;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="366.44" y="510" as="sourcePoint"/>
+                        <mxPoint x="290.00000000000017" y="464.70400000000006" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
