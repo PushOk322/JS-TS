@@ -14,8 +14,6 @@ interface RaceTeamFactory {
 }
 
 
-
-
 class RallyRacer implements Racer {
     race(): void {
         console.log("Rally racer is ready to compete on Rally race...");
