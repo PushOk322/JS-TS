@@ -62,12 +62,3 @@ garage.add(box1);
 garage.add(box2);
 console.log('Whole garage price is');
 clientCode(garage);
-console.log('');
-function clientCode2(box1, box2) {
-    if (box1.isComposite()) {
-        box1.add(box2);
-    }
-    console.log(box1.operation());
-}
-console.log('Client: I don\'t need to check the components classes even when managing the tree:');
-clientCode2(box1, simple);

@@ -62,7 +62,7 @@ class F1TeamFactory {
     }
     ;
 }
-let racingCompetitionFactory = new RallyTeamFactory();
+let racingCompetitionFactory = new F1TeamFactory();
 let racer = racingCompetitionFactory.getRacer();
 let mechanic = racingCompetitionFactory.getMechanic();
 let teamlead = racingCompetitionFactory.getTeamLead();

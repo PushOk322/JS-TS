@@ -24,7 +24,7 @@ function sort(arr: number[], way: number) {
             iterations++;
         }
     }
-    
+
     return arr;
 }
 

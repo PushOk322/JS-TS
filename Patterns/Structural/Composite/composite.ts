@@ -73,13 +73,17 @@ console.log('');
 
 
 const garage = new Composite();
+
 const box1 = new Composite();
 box1.add(new Tool());
 box1.add(new Tool());
+
 const box2 = new Composite();
 box2.add(new Tool());
+
 garage.add(box1);
 garage.add(box2);
+
 console.log('Whole garage price is');
 clientCode(garage);
-console.log('');
+

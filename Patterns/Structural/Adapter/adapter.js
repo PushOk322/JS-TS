@@ -60,6 +60,6 @@ let USSocket = new ForeignSocket(120, "three pins");
 let USOutlet = new ForeignOutlet(120, "three pins");
 console.log(USSocket.isConectable(USOutlet));
 let UAOutlet = new MyOutlet(220, "two pins");
-// console.log(USSocket.isConectable(UAOutlet));
+// USSocket.isConectable(UAOutlet);
 let UaToUsOutletAdapter = new MyOutletAdapter(0, "", UAOutlet);
 console.log(USSocket.isConectable(UaToUsOutletAdapter));

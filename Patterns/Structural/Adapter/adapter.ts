@@ -73,7 +73,7 @@ console.log(USSocket.isConectable(USOutlet));
 
 let UAOutlet: MyOutlet = new MyOutlet(220, "two pins");
 
-// console.log(USSocket.isConectable(UAOutlet));
+// USSocket.isConectable(UAOutlet);
 
 let UaToUsOutletAdapter: MyOutletAdapter = new MyOutletAdapter(0, "", UAOutlet);
 

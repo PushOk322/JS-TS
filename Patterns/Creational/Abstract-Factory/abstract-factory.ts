@@ -72,7 +72,7 @@ class F1TeamFactory implements RaceTeamFactory {
 
 
 
-let racingCompetitionFactory: RaceTeamFactory = new RallyTeamFactory();
+let racingCompetitionFactory: RaceTeamFactory = new F1TeamFactory();
 
 let racer: Racer = racingCompetitionFactory.getRacer();
 let mechanic: Mechanic = racingCompetitionFactory.getMechanic();
